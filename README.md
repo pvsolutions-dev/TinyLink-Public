@@ -1,7 +1,7 @@
 # TinyLink
 A lightweight, self-hosted URL shortener.
 This repository contains the full source code for running a local instance of the TinyLink service available at
-[tinylink.pvsolutions.dev](https://tinylink.pvsolutions.dev/).
+**[tinylink.pvsolutions.dev](https://tinylink.pvsolutions.dev/)**.
 Both versions provide the same core functionality, but the public site uses a different UI.
 
 ## Features
@@ -10,6 +10,13 @@ Both versions provide the same core functionality, but the public site uses a di
 * Simple Flask backend
 * JSON-based storage (no external database required)
 * Easy to modify, extend, and deploy
+
+## Version Numbering Scheme
+TinyLink follows a **[semantic versioning](https://semver.org/)** approach to indicate changes and compatibility:
+
+* **Major version (`X.0.0`)** — major changes  
+* **Minor version (`0.X.0`)** — minor changes  
+* **Patch version (`0.0.X`)** — patches  
 
 ## Requirements
 * Python **3.13.7** (developed and tested on this version)
