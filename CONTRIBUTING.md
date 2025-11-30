@@ -65,7 +65,7 @@ If you find a bug or have an idea for improvement, open an **Issue** and provide
 
 ## Code of Conduct
 
-By contributing, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). Let's keep the community welcoming and collaborative.
+By contributing, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md). As we aim to keep the community welcoming and collaborative.
 
 ---
 
